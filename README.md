@@ -34,7 +34,6 @@ Forget manual note drawing. **FLUXArticulator** transforms your chords into dyna
 ## FLUXProgressions
 <img src="./images/ExpressoChords-Main.png" alt="My screenshot"/>
 
-![][image3]  
 Main module to create a progression of up to 8 Chords. Progression can be created by:
 
 * Select one of the almost 2000 ready progressions by style (DB)   
@@ -47,13 +46,13 @@ Extra features:
 * Create/Save a new progression  
 * Create new progressions collection  
 * Import/Export collection of progressions  
-  
+
+** You can import progressions from the folder progressions **  
 
 
 ## FLUXGenerator
 <img src="./images/ExpressoChords-Generator.png" alt="Generator"/>
 
-![][image5]  
 This module generates a new progression based on:
 
 * Root Note  
