@@ -37,8 +37,7 @@ Forget manual note drawing. **FLUXArticulator** transforms your chords into dyna
 **FLUXSteps** is an advanced step sequencer that generates sequences based on current chords played by **FLUXSequencer** in order to create unique sequences with probability, velocity and extra data to create advanced and mutating (option) sequences.
 
 ## FLUXProgressions
-
-![Main][./images/ExpressoChords-Main.png]
+<img src="./images/ExpressoChords-Main.png" alt="My screenshot"/>
 
 ![][image3]  
 Main module to create a progression of up to 8 Chords. Progression can be created by:
