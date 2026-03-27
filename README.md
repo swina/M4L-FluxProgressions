@@ -1,11 +1,6 @@
-![A black and white photograph of soft shadows from leaves.][image1]
+# FLUX
 
-# 
-
-# 
-
-# **The Creative Workflow Suite**
-
+<img src="./images/ExpressoChords-Main.png" alt="My screenshot"/>
 Tools for Ableton Live/M4L MIDI Device  
 *Requires Ableton Live Standard/Suite with Max4Live*
 
