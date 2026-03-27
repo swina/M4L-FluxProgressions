@@ -1,6 +1,6 @@
 # FLUX
 
-<img src="./images/ExpressoChords-Main.png" alt="My screenshot"/>
+<img src="./images/ExpressoChords-Main.png" alt="Main"/>
 Tools for Ableton Live/M4L MIDI Device  
 *Requires Ableton Live Standard/Suite with Max4Live*
 
@@ -50,7 +50,8 @@ Extra features:
   
 
 
-## ![][image4] 	FLUXGenerator
+## FLUXGenerator
+<img src="./images/ExpressoChords-Generator.png" alt="Generator"/>
 
 ![][image5]  
 This module generates a new progression based on:
@@ -62,9 +63,8 @@ This module generates a new progression based on:
 * Variant (1st inversion / 2nd inversion / wide / widest)  
 * Root Bass / Velocity limits
 
-## ![][image6]	FLUXSequencer
-
-![][image7]
+## FLUXSequencer
+<img src="./images/ExpressoChords-Sequencer.png" alt="Sequencer"/>
 
 * Up to 8 Steps Chord Sequence based on the current progression  
 * Step Duration (1/128 \- 8/1)  
@@ -82,8 +82,8 @@ Options
 
 
 ## FLUXTransport
+<img src="./images/ExpressoChords-Transport.png" alt="My screenshot"/>
 
-![][image8]  
 Floating window with the following info:
 
 * Current Chord played  
@@ -93,8 +93,7 @@ Floating window with the following info:
 * List of the sequencer chords to be played
 
 ## 	FLUXArticulator (device)
-
-![][image9]   ![][image10]
+<img src="./images/ExpressoChords-Articulator.png" alt="My screenshot"/>
 
 This module is a separate device that can be used in any track when FLUXProgressions is loaded. This gives you the possibility to articulate the current played chord with the following articulation:
 
